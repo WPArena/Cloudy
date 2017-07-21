@@ -4,7 +4,7 @@
                             <a href="<?php bloginfo('rss2_url'); ?>" title="Syndicate this site using RSS" class="rss">Entries <abbr title="Really Simple Syndication">RSS</abbr></a>
                             <a href="<?php bloginfo('comments_rss2_url'); ?>" title="The latest comments to all posts in RSS" class="rss">Comments <abbr title="Really Simple Syndication">RSS</abbr></a>
                             <?php wp_loginout(); ?>
-			                <a href="https://www.aoe.com/en/lp/wordpress-themes.html" title="AOE" class="powered"><img src="<?php echo get_template_directory_uri() ?>/img/cubes.gif" /></a>
+			                <a href="https://wparena.com" title="WPArena" class="powered"><img src="<?php echo get_template_directory_uri() ?>/img/cubes.gif" /></a>
                         </span>
                     </div><!--#footer-->
                 <!--#do not delete this part#-->
