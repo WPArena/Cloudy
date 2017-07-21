@@ -1,26 +1,15 @@
-﻿=== Cloudy Wordpress Theme ===
-Tags: two-columns, fixed-layout, blue, white, custom-header.
+=== Twenty Seventeen ===
+Contributors: WPArena, WordPressArena
+Requires at least: WordPress 4.8
+Tested up to: WordPress 4.9-trunk
+Version: 3.1.5
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: two-columns, fixed-layout, blue, white, custom-header
 
-= Description =
+== Description ==
+
 Cloudy theme designed by AOE. Cloudy is a beautiful simple blog theme, designed for commercial and more technical blogs. Now also widget ready.
-
-By downloading and using this theme, you agree to the following terms:
- - All variations of this theme have to remain GPL
- - You may use this theme for personal or commercial projects
- - You may modify, translate or distribute
-
-If you encounter any bugs please contact: wordpress(at)aoe.com
-
-= License =
-Unless otherwise specified, all the theme files, scripts and images are licensed under GNU General Public License Version 3, see file license.txt
-License: GNU General Public License v3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
-Cloudy WordPress Theme, Copyright 2014 AOE
-Cloudy is distributed under the terms of the GNU General Public License v3
-
-Unless otherwise specified, all images are self shot by AOE
-Copyright: AOE
 
 == Installation ==
 
